@@ -6,7 +6,8 @@ This python based project allows users to create their own QR codes of their lin
 
 - Python 3.x
 - `pyqrcode` Library
-- Google Colab platform
+- `pypng` Library
+-  Google Colab platform
 
 - ## Utilization
 
@@ -28,5 +29,20 @@ This python based project allows users to create their own QR codes of their lin
 
 
    ## Script Explaination
+
+   ### Libraries of Function
+
+   This script uses `pyqrcode` and, `pypng` to run and, give user the generated QR - Code.
+
+  `pyqrcode` Library is used here to generate QR - Codes and, QR Code related functions.
+  `pypng` Library is used here to generate such QR - Codes in forms of images ( .png ) for user to store and, use it conveniently.
+
+  ### Working
+   This code generates a QR code from a user-provided link. It first installs the required libraries (`pyqrcode` and, `pypng`), then asks the user to enter a URL or, any text. The link is then converted into a QR code using pyqrcode.create(), and the QR code is saved as a PNG image named QR.png in the files of the user's platform.
+   The QR Code can then be installed and, utilized as per user's purposes.
+
+
+   # The Website
+   
 
 
