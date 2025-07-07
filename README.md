@@ -44,5 +44,7 @@ This python based project allows users to create their own QR codes of their lin
 
    # The Website
    
+   I've also designed a real-time QR Generator website with the help of `v0.dev`, where users can customize their QR Codes as per their preferences for their utilization. The website is free for all and, requires no sign. 
 
+   The website is live at -> **[Here](https://kzmnzagraceu6l2o5px5.lite.vusercontent.net/)**
 
