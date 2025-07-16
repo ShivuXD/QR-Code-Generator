@@ -15,7 +15,7 @@ This python based project allows users to create their own QR codes of their lin
 
 - ## Utilization
 
-1. **Select the file:**
+1. **Select the file:** 📄
  
     Go to ShivuXD/QR-Code-Generator and, click on the " QR - Code Generator.ipynb " file. Open it in your Google Colab.
 
