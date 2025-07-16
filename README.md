@@ -1,5 +1,5 @@
 # QR-Code Generator
-<img src = "https://icons8.com/icon/15894/qr-code">
+[<img height="72px" width="72px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=XgTb5aa9sMrl&format=png&color=000000"/>]
 
 This python based project allows users to create their own QR codes of their links, texts and, more. 
 
