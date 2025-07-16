@@ -32,7 +32,7 @@ This python based project allows users to create their own QR codes of their lin
      The following generated QR - Code will be installed in your files folder in Google Colab in .png file.
 
 
-   ## Script Explaination
+   ## Script Explaination 📝
 
    ### Libraries of Function
 
@@ -46,7 +46,7 @@ This python based project allows users to create their own QR codes of their lin
    The QR Code can then be installed and, utilized as per user's purposes.
 
 
-   # The Website
+   # The Website 🌐
    
    I've also designed a real-time QR Generator website with the help of `v0.dev`, where users can customize their QR Codes as per their preferences for their utilization. The website is free for all and, requires no sign-up. 
 
