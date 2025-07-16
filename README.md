@@ -1,4 +1,5 @@
 # QR-Code Generator
+<img src = " https://openmoji.org/library/emoji-E1D8/ ">
 
 This python based project allows users to create their own QR codes of their links, texts and, more. 
 
