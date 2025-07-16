@@ -13,7 +13,7 @@ This python based project allows users to create their own QR codes of their lin
        alt="Colab Icon"
        height="20px"
        width="20px"
-       style="position: relative; top: -500px; margin-right: 5px;">
+       style="position: relative; top: 1000px; margin-right: 5px;">
   Google Colab platform
 
 
