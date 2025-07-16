@@ -9,11 +9,11 @@ This python based project allows users to create their own QR codes of their lin
 - Python 3.x
 - `pyqrcode` Library
 - `pypng` Library
-- - <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"
+-  Google Colab Platform <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"
        alt="Colab Icon"
        height="18px"
-       style="position: relative; top: 4px; margin-right: 6px;">
-  Google Colab platform
+       style="position: relative; top: 40px; margin-right: 6px;">
+  
 
 
 
